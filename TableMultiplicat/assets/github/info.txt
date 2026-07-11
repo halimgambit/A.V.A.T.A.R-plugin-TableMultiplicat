@@ -1,0 +1,10 @@
+🔢 Table de multiplication
+
+Le plugin Table de multiplication permet à A.V.A.T.A.R. de générer et réciter instantanément la table de multiplication d’un nombre demandé par l’utilisateur.
+Il analyse la demande vocale, extrait le nombre, puis construit et énonce chaque résultat de manière claire et progressive pour une écoute fluide.
+Idéal pour l’apprentissage, l’aide scolaire ou simplement pour réviser les mathématiques à la voix.
+✔ Génération automatique des tables de 1 à 10
+✔ Lecture vocale fluide et séquentielle
+✔ Détection intelligente du nombre dans la phrase
+✔ Interaction naturelle avec l’assistant
+Un plugin simple, rapide et éducatif qui rend les mathématiques accessibles à tout moment, sans écran.

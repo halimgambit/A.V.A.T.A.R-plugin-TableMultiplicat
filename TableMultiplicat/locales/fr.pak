@@ -1,0 +1,9 @@
+{
+  "speech": {
+    "noUnderstand": "Je n'ai pas compris le nombre.",
+    "noNumber": "Donne-moi un nombre entre zéro et cent.",
+    "speak": "Voici la table de multiplication de $$",
+    "line": "$$",
+    "error": "Une erreur est survenue."
+  }
+}

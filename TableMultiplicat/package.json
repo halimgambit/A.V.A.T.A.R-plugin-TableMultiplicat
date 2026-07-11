@@ -1,0 +1,12 @@
+{
+    "name": "TableMultiplicat",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Plugin TableMultiplicat for A.V.A.T.A.R",
+    "repository": "https://github.com/YOUR-REPOSITORY",
+    "keywords": [
+        "TableMultiplicat"
+    ],
+    "author": "YOUR-NAME",
+    "license": "mit"
+  }
